@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "dryGrow.org",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 122,
@@ -41,7 +41,14 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
